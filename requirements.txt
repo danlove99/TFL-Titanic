@@ -1,0 +1,5 @@
+tensorflow==1.9.0
+numpy==1.17.4
+pandas==0.25.3
+scikit-learn==0.21.0
+tflearn==0.3.2
